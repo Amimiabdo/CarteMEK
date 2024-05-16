@@ -1,0 +1,1 @@
+var json_GARE_2 = {"type":"FeatureCollection","name":"GARE_2","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":null,"NOM":"MEKNES GARE","X":487656.19,"Y":366467.95},"geometry":{"type":"Point","coordinates":[-5.53189061252248,33.896789423701868]}}]}
